@@ -1,0 +1,21 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Constantin9714/Constantin-Nica-Git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Constantin9714/Constantin-Nica-Git/issues"
+  },
+  "homepage": "https://github.com/Constantin9714/Constantin-Nica-Git#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
